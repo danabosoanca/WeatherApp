@@ -1,8 +1,11 @@
 # WeatherApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+This is a web Weather Application built with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4. and OpenWeather API from RapidAPI.com (https://rapidapi.com/worldapi/api/open-weather13)
+
+## Landing Page
 
 ![alt text](Buc.png)
+Demo: https://kaleidoscopic-quokka-a5eb0d.netlify.app/
 
 ## Development server
 
